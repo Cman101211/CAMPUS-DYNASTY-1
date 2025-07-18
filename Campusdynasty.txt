@@ -1,5 +1,5 @@
 Wake Forest, Demon Deacons, WAKE, ACC, A67F31, 000011, 65, NC, NC; 
-Louisville, Cardinals, LOU, ACC, AD0000, 000013, 62, KY, KY.OH; 
+Louisville, Cardinals, LOU, ACC, AD0000, 000013, 82, KY, KY.OH; 
 NC State, Wolfpack, NCST, ACC, CC0000, 000020, 76, NC, NC; 
 Cincinnati, Bearcats, CIN, ACC, E00122, 000025, 78, OH, OH.KY.IN; 
 Georgia Tech, Yellow Jackets, GT, ACC, B3A369, 003057, 63, GA, GA; 
@@ -15,7 +15,7 @@ Miami, Hurricanes, MIA, ACC, 005030, FF671F, 75, FL, FL;
 Duke, Blue Devils, DUKE, ACC, 0736A4, FFFFFF, 95, NC, NC.SC; 
 North Carolina, Tar Heels, UNC, ACC, 7BAFD4, FFFFFF, 95, NC, NC.SC; 
 Northern Kentucky, Norse, NKU, American, FFC72C, 000000, 56, KY, KY; 
-UCF, Knights, UCF, American, BA9B37, 000018, 65, FL, FL; 
+UCF, Knights, UCF, American, BA9B37, 000018, 72, FL, FL; 
 VCU, Rams, VCU, American, FFB300, 000029, 72, VA, VA; 
 Liberty, Flames, LIB, American, 990000, 0A254E, 46, VA, VA; 
 Western Kentucky, Hilltoppers, WKU, American, C60C30, 1E1E1E, 63, KY, KY; 
